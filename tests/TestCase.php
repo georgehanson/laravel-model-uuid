@@ -3,7 +3,6 @@
 namespace GeorgeHanson\LaravelModelUuid\Tests;
 
 use Illuminate\Support\Facades\Hash;
-use Illuminate\Contracts\Console\Kernel;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
 abstract class TestCase extends \Orchestra\Testbench\TestCase
